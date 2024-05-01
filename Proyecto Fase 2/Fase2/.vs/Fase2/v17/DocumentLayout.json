@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\Escritorio\\Fase2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C127EE-E803-4B9F-95F8-768BD91D158C}|Fase2.dwproj|C:\\Users\\kevin\\Escritorio\\Fase2\\Venta.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{E8C127EE-E803-4B9F-95F8-768BD91D158C}|Fase2.dwproj|solutionrelative:Venta.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C127EE-E803-4B9F-95F8-768BD91D158C}|Fase2.dwproj|C:\\Users\\kevin\\Escritorio\\Fase2\\Compra.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{E8C127EE-E803-4B9F-95F8-768BD91D158C}|Fase2.dwproj|solutionrelative:Compra.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Venta.cube [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\kevin\\Escritorio\\Fase2\\Venta.cube",
+              "RelativeDocumentMoniker": "Venta.cube",
+              "ToolTip": "C:\\Users\\kevin\\Escritorio\\Fase2\\Venta.cube [Dise\u00F1o]",
+              "RelativeToolTip": "Venta.cube [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-30T04:17:34.458Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Compra.cube [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\kevin\\Escritorio\\Fase2\\Compra.cube",
+              "RelativeDocumentMoniker": "Compra.cube",
+              "ToolTip": "C:\\Users\\kevin\\Escritorio\\Fase2\\Compra.cube [Dise\u00F1o]",
+              "RelativeToolTip": "Compra.cube [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-30T03:12:28.979Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
